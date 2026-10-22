@@ -1,0 +1,6 @@
+{
+  "name": "tds-sep-ga3",
+  "private": true,
+  "scripts": { "deploy": "wrangler deploy", "dev": "wrangler dev" },
+  "devDependencies": { "wrangler": "^4" }
+}

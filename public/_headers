@@ -1,0 +1,4 @@
+# Q6: let the exam page fetch the 3D model from the browser (CORS)
+/face.glb
+  Access-Control-Allow-Origin: *
+  Content-Type: model/gltf-binary
